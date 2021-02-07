@@ -1,0 +1,16 @@
+.about:hover{
+    transition: all 0.4s ease-in-out;
+    color:  #1542be;
+}
+.certification:hover{
+    transition: all 0.4s ease-in-out;
+    color:  #1542be;
+}
+.services:hover{
+    transition: all 0.4s ease-in-out;
+    color:  #1542be;
+}
+.team:hover{
+    transition: all 0.4s ease-in-out;
+    color:  #1542be;
+}
